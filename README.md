@@ -1,9 +1,9 @@
 # Concrete Surface Crack Detection (CNN)
 
-*Read this in [Indonesian](README_id.md)*
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/achmadhadikurnia/concrete-crack-detection-cnn/blob/main/Deteksi_Keretakan_Permukaan_Beton.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/achmadhadikurnia/concrete-crack-detection-cnn/blob/main/Concrete_Crack_Detection_CNN.ipynb)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+*Read this in [Indonesian](README_id.md)*
 
 This repository contains a Deep Learning implementation using a *Convolutional Neural Network* (CNN) with the **MobileNetV2** architecture to automatically detect cracks on concrete surfaces. This project aims to automate visual-based civil infrastructure inspection (e.g., using *drones*).
 
